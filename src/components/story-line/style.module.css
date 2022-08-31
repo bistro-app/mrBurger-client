@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+    gap: 15px;
+    overflow-x: scroll;
+    padding: 30px 10px;
+}
+
+.wrapper::-webkit-scrollbar {
+    display: none;
+}

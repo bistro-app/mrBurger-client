@@ -9,6 +9,9 @@
 /coverage
 
 # production
+.idea/
+.vscode/
+/dist
 /build
 
 # misc

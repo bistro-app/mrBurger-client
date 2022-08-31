@@ -21,6 +21,11 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
+    "src",
+    "src/components/header/modules.d.ts",
+    "src/components/story-line/modules.d.ts",
+    "src/components/story-line/story/modules.d.ts",
+    "src/components/menu/modules.d.ts",
+    "src/components/menu/categories-line/modules.d.ts"
   ]
 }
